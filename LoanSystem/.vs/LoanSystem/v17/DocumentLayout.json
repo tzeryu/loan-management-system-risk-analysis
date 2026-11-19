@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\controllers\\loanapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\controllers\\loanapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\controllers\\riskanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\controllers\\riskanalysiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\userstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\userstatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\controllers\\auditlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\dtos\\decisionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\dtos\\decisionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\services\\riskanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\services\\riskanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\riskanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\riskanalysisresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\models\\riskpredictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\models\\riskpredictionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|c:\\users\\tzery\\mmu\\fyp\\loansystem\\loanmanagementapi\\migrations\\20260612084114_adddecisionreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F8B70C-998B-417D-9A1F-4007F4262572}|LoanManagementAPI\\LoanManagementAPI.csproj|solutionrelative:loanmanagementapi\\migrations\\20260612084114_adddecisionreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:39:02.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:38:15.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Services\\AuditService.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Services\\AuditService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:30:37.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T15:32:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\LoanApplicationController.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Controllers\\LoanApplicationController.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\LoanApplicationController.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Controllers\\LoanApplicationController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:38:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RiskAnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\RiskAnalysisController.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Controllers\\RiskAnalysisController.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\RiskAnalysisController.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Controllers\\RiskAnalysisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T15:50:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\User.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:42:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuditLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\AuditLogsController.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Controllers\\AuditLogsController.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Controllers\\AuditLogsController.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Controllers\\AuditLogsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:35:45.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserStatusRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\UserStatusRequest.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\UserStatusRequest.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\UserStatusRequest.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\UserStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:34:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\AuditLog.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T16:28:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DecisionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\DTOs\\DecisionRequest.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\DTOs\\DecisionRequest.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\DTOs\\DecisionRequest.cs",
+              "RelativeToolTip": "LoanManagementAPI\\DTOs\\DecisionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:42:24.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RiskAnalysisService.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Services\\RiskAnalysisService.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Services\\RiskAnalysisService.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Services\\RiskAnalysisService.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Services\\RiskAnalysisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:59:48.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RiskAnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\RiskAnalysisResult.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\RiskAnalysisResult.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\RiskAnalysisResult.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\RiskAnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T07:30:26.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RiskPredictionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\RiskPredictionResponse.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Models\\RiskPredictionResponse.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Models\\RiskPredictionResponse.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Models\\RiskPredictionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:58:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Program.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:12:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20260612084114_AddDecisionReason.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Migrations\\20260612084114_AddDecisionReason.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Migrations\\20260612084114_AddDecisionReason.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Migrations\\20260612084114_AddDecisionReason.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Migrations\\20260612084114_AddDecisionReason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T08:41:14.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\appsettings.Development.json",
+              "RelativeToolTip": "LoanManagementAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T07:41:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LoanManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T07:41:47.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\appsettings.json",
+              "RelativeToolTip": "LoanManagementAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-12T07:43:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LoanManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tzery\\mmu\\FYP\\LoanSystem\\LoanManagementAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LoanManagementAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T10:56:13.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

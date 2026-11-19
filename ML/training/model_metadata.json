@@ -1,0 +1,7 @@
+{
+    "model_name": "XGBoost Loan Risk Model",
+    "target": "loan_status",
+    "positive_class_meaning": "Approved",
+    "negative_class_meaning": "Rejected",
+    "selected_features_count": 24
+}
